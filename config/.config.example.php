@@ -24,7 +24,7 @@ $_ENV['muKey']      = 'NimaQu';                       //用于校验魔改后端
 // db_host 例: localhost（可解析的主机名）, 127.0.0.1（IP 地址）, 10.0.0.2:4406（含端口)
 // db_socket 例：/var/run/mysqld/mysqld.sock（需使用绝对地址）
 $_ENV['db_driver']    = 'mysql';
-$_ENV['db_host']      = 'db_host';
+$_ENV['db_host']      = 'web_db_host';
 $_ENV['db_socket']    = '';
 $_ENV['db_database']  = 'db_name';           //数据库名
 $_ENV['db_username']  = 'db_user';              //数据库用户名
